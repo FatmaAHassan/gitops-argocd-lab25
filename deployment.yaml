@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: jenkins-app
-          image: fatmaahassan/jenkins-app:1
+          image: fatmaahassan/jenkins-app:14
           ports:
             - containerPort: 8080
 
